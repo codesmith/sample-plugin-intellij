@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.codesmith.samplepluginintellij.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.codesmith.samplepluginintellij.MyBundle
 
 class MyApplicationService {
 
